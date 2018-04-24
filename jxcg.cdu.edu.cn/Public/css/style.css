@@ -4,12 +4,12 @@
 a{text-decoration: none;}
 
 body{margin:auto; padding:0px; min-height:100%; background:#e6e6e6; font-family:a, sans-serif; font-size:12px; font-weight:100px;}
-.header{width:100%; height:340px; background:#409EFF}
+.header{width:100%; height:340px; background:url(../image/header_background.png)}
 .header_logo{width: 1210px; height: 200px; margin: auto;  font-size: 25px; }
 .header_logo a {padding-top: 40px; display: block;}
 .header_logo a img{vertical-align: middle; }
 .header_logo a b{font-size:20px; color:#FDE6BB; font-family:Arial, Helvetica, sans-serif;}
-.header_logo span{ display: block; margin-top: 12px;}
+.header_logo span{ display: block; margin-top: 0px;}
 .header_logo b{font-size: 25px; color:#FDE6BB; font-family:mocfoter; font-weight:bold;}
 
 
