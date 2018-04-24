@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-jxcg.cdu.edu.cn	TRUE	/	FALSE	1999999999	PHPSESSID	v59s72q7n57kvk421d9k810060
-
