@@ -1,7 +1,7 @@
 
-    
-        
-        
+
+
+$(".text .nav li a b").remove();
 //返回顶部的js
 function pageScroll(){
     //把内容滚动指定的像素数（第一个参数是向右滚动的像素数，第二个参数是向下滚动的像素数(每循环一次滚动条的top减10)）
@@ -57,6 +57,7 @@ var flashvars={
         var video=[vUrl];
         var support=['iPad','iPhone','ios','android+false','msie10+false','webKit'];
         CKobject.embedHTML5('video','ckplayer_a1',440,330,video,flashvars,support);
+
 
 
 

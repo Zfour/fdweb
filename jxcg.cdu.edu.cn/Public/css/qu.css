@@ -1,10 +1,11 @@
 .content{width:100%;   margin-bottom: 24px;  padding:0px;}
 .text{width:1200px;  padding: 0px;  margin: auto; margin-top: -100px}
-.text .nav{height: 45px;background-color: #fff;width:1156px ;margin-left: 22px}
+.text .nav{height: 45px; }
 .text .nav ul{margin: auto; padding: 0px; display: block; padding-left: 25px}
 .text .nav li{display: inline-block; float:left; height:45px; list-style: none; line-height:20px;}
-.text .nav li a{display:inline-block; padding:13px 15px 13px 15px;  font-size:16px; font-family:mocfoter; color: #909399;}
-.text .nav li a:hover{color: #409eff; cursor: pointer;}
+.text .nav li a{display:inline-block; padding:15px 15px 15px 15px;  font-size:16px; font-family:mocfoter; color: #fff;}
+.text .nav li a:hover{color: #dcdddd; cursor: pointer;}
+
 
 .text_content_tao{ margin: 0px 12px 0px 12px;   padding:10px 10px 0px 10px;}
 .video_text{ margin-bottom: 10px;}
@@ -51,5 +52,3 @@
 .video_text_nr a {font-size:12px; text-decoration:none; color:#909399;}
   .video_text_nr a.ydqw:hover {font-size:12px; text-decoration:none; color:#409eff;}
 .footer a.footer_top:hover{color: #dcdddd; cursor: pointer;}
-.text .nav li a b{display:none}
-.text .nav li a{text-align:center}
