@@ -1,0 +1,31 @@
+
+/*调用外部字体*/
+@font-face{ font-family: mocfoter;  src:url(font/1.eot),url(font/1.ttf);}
+a{text-decoration: none;}
+
+body{margin:auto; padding:0px; min-height:100%; background:#e6e6e6; font-family:a, sans-serif; font-size:12px; font-weight:100px;}
+.header{width:100%; height:340px; background:#409EFF}
+.header_logo{width: 1060px; height: 200px; margin: auto;  font-size: 25px; }
+.header_logo a {padding-top: 40px; display: block;}
+.header_logo a img{vertical-align: middle; }
+.header_logo a b{font-size:20px; color:#FDE6BB; font-family:Arial, Helvetica, sans-serif;}
+.header_logo span{ display: block; margin-top: 12px;}
+.header_logo b{font-size: 25px; color:#FDE6BB; font-family:mocfoter; font-weight:bold;}
+
+
+.footer{width:100%; height:126px; padding-top: 10px;  background:#409eff; }
+.footer .footer_xian{display: block; width: 100%; height: 1px; margin-bottom: 35px; }
+.footer div{width: 1016px; margin: auto;}
+.footer div span:first-child > img{vertical-align: middle; }
+.footer div span:first-child > b{color: #fff; font-size: 15px; margin-left: 18px; font-family:mocfoter;}
+.footer div a{color: #FFFFFF; font-size: 12px;}
+.footer_top{margin-left: 600px; font-size: 16px; vertical-align: top; cursor: pointer;}
+
+/*content_footer区域*/
+.text_hr{height: 12px;}
+.text_img_tao{padding: 10px; background: #fff;}
+#demo {background: #FFF; overflow:hidden; background: #fff; }
+#demo img{margin-left: 5px}
+#indemo {float: left; width: 800%; }
+#demo1 {float: left; }
+#demo2 {float: left; margin-left: 5px}

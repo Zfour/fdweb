@@ -1,0 +1,23 @@
+.text_tgyy_content_right{display: inline-block; width: 198px; margin-left: 10px; vertical-align: top;}
+.text_tgyy_content_right a:first-child{margin-top: 0px;}
+.text_tgyy_content_right a{display: block; height: 35px; margin-top: 5px; line-height: 35px; text-align: center; color: #fff; font-size: 15px; font-family: mocfoter; cursor: pointer;}
+
+.text_tgyy_content_right .text_tgyy_right_1{background: #A92201;}
+.text_tgyy_content_right .text_tgyy_right_2{background: #B5B5B6; }
+.text_tgyy_content_right .text_tgyy_right_3{background: #B5B5B6}
+.text_tgyy_content_right .text_tgyy_right_4{background: #B5B5B6}
+.text_tgyy_3_div{margin: auto; padding: 0px; display: none;}
+.text_tgyy_3_div ul{margin:5px auto; padding: 0px 0px 10px 0px; background: #DCDDDD;}
+.text_tgyy_3_div li{height: 40px; display: block; border-bottom: 1px #949495 dashed; text-align: center;}
+.text_tgyy_3_div li a{color: #727171; display: inline-block; font-size: 13px; cursor: pointer; vertical-align: top;}
+.text_tgyy_3_div li a i{display: inline-block; width: 20px; height: 10px;  background: url(../image/dian_3.png) 3px -12px no-repeat; }
+.text_tgyy_3_div li a:hover{color: #AC2E0F; }
+.text_tgyy_3_div li a:hover > i{display: inherit; background-position: 3px 2px;}
+
+
+.text_tgyy_content_right .text_tgyy_right_1:before{content: ""; display: block; width: 32px; height: 35px; position: absolute; background: #6A0400; margin: 0px 0px 0px 165px}
+.text_tgyy_content_right .before_t:before{content: ""; display: block; width: 32px; height: 35px; position: absolute; background: url(../image/jiantou_bottom.png),#B12C08;}
+
+.text_tgyy_right_2:hover{ background: #F1807B;}
+.text_tgyy_right_3:hover{background:  #F1807B;}
+.text_tgyy_right_4:hover{background: #F1807B;}
