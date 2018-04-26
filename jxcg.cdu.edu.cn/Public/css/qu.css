@@ -22,7 +22,7 @@
 .video_text > div >  i{display:block; height: 15px; width:100%; margin-bottom: 5px; background:url(../image/background_4.png) repeat-x; background-position:5px;}
     
     
-.text_textContent{height: 260px;  white-space: nowrap; vertical-align: top; padding: 0px; }
+.text_textContent{height: 300px;  white-space: nowrap; vertical-align: top; padding: 0px; }
 .textContent_1,.textContent_3{width: 370px; height:100%; background: #fff; float: left; outline: none; padding: 0px; }
 .textContent_2{width: 405px; height: 100%; display: inline-block; float: left; background: #fff; margin-right: 5px; margin-left: 5px;}
 
