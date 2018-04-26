@@ -29,11 +29,12 @@
 
 
 .text_cgly_content_right{display: block; float:left; width: 198px; margin-left: 10px; vertical-align: top;}
-.text_cgly_content_right a:first-child{margin-top: 0px;}
+.text_cgly_content_right a:first-child{margin-top: 0px;    border: 2px solid #0f84fd;
+    color: #0f84fd;}
 .text_cgly_content_right a{display: block; height: 35px; margin-top: 5px; line-height: 35px; text-align: center; color: #fff; font-size: 15px; font-family: mocfoter}
 .text_cgly_content_right .before_t:before{content: ""; display: block; width: 32px; height: 35px; position: absolute; background: url(../image/jiantou.png),#E6A23C; }
 .text_cgly_content_right .text_cgly_right_1:before{background: #409eff; margin: 0px 0px 0px 166px; content: ""; display: block; width: 32px; height: 35px; position: absolute; }
-.text_cgly_content_right .text_cgly_right_0{background: #0f84fd;}
+
 .text_cgly_content_right .text_cgly_right_1{background: #409eff;}
 .text_cgly_content_right .text_cgly_right_2{background: #B5B5B6}
 .text_cgly_content_right .text_cgly_right_3{background: #B5B5B6}
