@@ -25,7 +25,7 @@
 
 'use strict';
 
-var DEFAULT_URL = '武汉理工大学产品设计（产品方向及数字艺术方向）人才培养方案.pdf';
+var DEFAULT_URL = '武汉理工大学工业设计（交通工具方向）人才培养方案.pdf';
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
