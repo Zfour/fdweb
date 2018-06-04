@@ -1,5 +1,9 @@
-
-
+$(".footer div span:eq(2) a:eq(0)").html("地址：武汉理工大学艺术与设计学院&nbsp;|");
+$(".footer div span:eq(2) a:eq(1)").html("版权所有 @ 武汉理工大学&nbsp;|");
+$(".footer div span:eq(2) a:eq(2)").html("学院邮箱：ysxydxh@whut.edu.cn|");
+$(".footer div span:eq(2) a:eq(3)").html("邮编：430000&nbsp;|");
+$(".footer div span:eq(2) a:eq(4)").html("鄂ICP备005006454号&nbsp;|");
+$(".footer div span:eq(2) a:eq(5)").html("技术支持：武汉理工交互设计系");
 
 $(".text .nav li a b").remove();
 //返回顶部的js

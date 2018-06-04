@@ -29,7 +29,7 @@
 
 
 .text_cgly_content_right{display: block; float:left; width: 198px; margin-left: 10px; vertical-align: top;}
-.text_cgly_content_right a:first-child{margin-top: 0px;    border: 2px solid #0f84fd;
+.text_cgly_content_right a:first-child{margin-top: 0px;    border: 2px solid #0f84fd;background: #FFFFFF;
     color: #0f84fd;}
 .text_cgly_content_right a{display: block; height: 35px; margin-top: 5px; line-height: 35px; text-align: center; color: #fff; font-size: 15px; font-family: mocfoter}
 .text_cgly_content_right .before_t:before{content: ""; display: block; width: 32px; height: 35px; position: absolute; background: url(../image/jiantou.png),#E6A23C; }

@@ -27,6 +27,6 @@
 .text_tgyy_right_5:hover{background:  #F1807B;}
 .text_tgyy_right_6:hover{background: #F1807B;}
 
-.top_bottom_text{display: block; height: 50px; border-top: 1px #A92201 solid; margin-top: 40px;}
+.top_bottom_text{display: block; height: 50px; margin-top: 40px;}
 .top_bottom_text a{color: #7D7D7D; font-size: 14px; line-height: 50px}
 .top_bottom_text a:hover{color:#A92201;}
